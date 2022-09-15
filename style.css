@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background: #B3495D;
+}
+
+.tomate{
+    margin-top: 40px;
+    display: block;
+    text-align: center;
+}
+
+.tomate img{
+    width: 130px;
+}
+
+.config{
+    position: absolute;
+    left: 92%;
+    bottom: 85%;
+}
+
+.config img{
+    width: 45px;
+
+}
+
+.cronometer h1{
+    font-size: 300px;
+    text-align: center;
+    margin: 0px;
+    color: aliceblue;
+}
+
+.play{
+    text-align: center;
+}
+
+.play img{
+    width: 70px;
+}
